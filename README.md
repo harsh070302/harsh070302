@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Agarwal</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh070302&label=Profile%20views&color=0e75b6&style=flat" alt="harsh070302" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh070302" alt="harsh070302" /></a> </p>
+<p><a href="mailto:harsh07032002@gmail.com">mail me at harsh07032002@gmail.com</a></p>
 
 <p align="left"> <a href="https://twitter.com/the__harsh_" target="blank"><img src="https://img.shields.io/twitter/follow/the__harsh_?logo=twitter&style=for-the-badge" alt="the__harsh_" /></a> </p>
 
